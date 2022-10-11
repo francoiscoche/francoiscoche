@@ -1,4 +1,4 @@
-# Hi, I'm François
+# Hi, I'm François!
 
 
 Web developer at the crossroads between studies and self-taught. 
@@ -6,7 +6,9 @@ Web developer at the crossroads between studies and self-taught.
 
 ### Find me : 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" width="3%"></img> 
+<a href="https://www.linkedin.com/in/francois-coche/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" width="3%"></img>
+</a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" width="3%"></img> 
 
 
