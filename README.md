@@ -1,4 +1,4 @@
-<center># Hi, I'm François</center>
+# Hi, I'm François
 
 
 ### Find me : 
