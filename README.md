@@ -1,8 +1,13 @@
 # Hi, I'm François! ✌️
-
+<br>   
 
 Web developer at the crossroads between studies and self-taught. 
-                                            
+
+<br>   
+✍️ Provo a scrivere articoli di tec (in italiano)
+https://francoiscoche.up.railway.app/
+<br><br>                               
+
 
 ## 🌐 Socials:
 
