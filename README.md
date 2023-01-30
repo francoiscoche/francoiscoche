@@ -5,7 +5,8 @@ Web developer at the crossroads between studies and self-taught.
 
 <br>   
 ✍️ Provo a scrivere articoli di tec (in italiano)
-https://francoiscoche.up.railway.app/
+https://www.francoiscoche.blog/
+
 <br><br>                               
 
 
