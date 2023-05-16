@@ -3,11 +3,7 @@
 
 Web developer at the crossroads between studies and self-taught. 
 
-<br>   
-✍️ Provo a scrivere articoli di tec (in italiano)
-https://www.francoiscoche.blog/
-
-<br><br>                               
+<br>                               
 
 
 ## 🌐 Socials:
@@ -16,7 +12,7 @@ https://www.francoiscoche.blog/
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francois-coche/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/FrancoisDev_) [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/fransois)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/fransois)
 
 
 
